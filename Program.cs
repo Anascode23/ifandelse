@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         /*
+        (Exerscise #1)
         Console.WriteLine("Write a number between 1 to 10: ");
         var promt = Console.ReadLine();
         var promtToInt = Convert.ToInt32(promt);
@@ -24,8 +25,9 @@ class Program
 
         }
         */
-        
-        /*Console.WriteLine("Write a number between 1 to 10: ");
+        /*
+          (Exerscise #1)
+        Console.WriteLine("Write a number between 1 to 10: ");
         var promt2 = Console.ReadLine();
         var promtToInt2 = Convert.ToInt32(promt2);
          Console.WriteLine("Write another number between 1 to 10: ");
@@ -41,7 +43,7 @@ class Program
                 Console.WriteLine("Sorry try again");
             }*/
 
-            /*
+            /*   (Exerscise #3)
         Console.WriteLine("Using this format{0000 x 0000} write the height and width of an image: ");
         var promt4 = Console.ReadLine();
         if (promt4 == "1920 x 1080")
@@ -56,7 +58,7 @@ class Program
         {
             Console.WriteLine("Image size not found");
         }
-*/
+*/          //   (Exerscise #4)
          Console.WriteLine("What is the speed limit of the lane?: ");
         var  promt1 = Console.ReadLine();
          var speedlimit = Convert.ToInt32(promt1);
